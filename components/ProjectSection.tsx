@@ -31,7 +31,7 @@ const projects = [
   {
     name: "PathFinder Algorithm Visualizer",
     description: "PathFinder Algorithm Visualizer is a MVP project I developed as I began to study DSA to showcase my interest in algorithm design.",
-    image: "/pathfinder.png",
+    image: "/algovis.png",
     github: "https://github.com/gordontheprogrammer/algorithm-visualizer",
     link: "https://github.com/gordontheprogrammer/algorithm-visualizer",
   },
