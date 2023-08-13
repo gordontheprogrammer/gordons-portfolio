@@ -18,8 +18,8 @@ const projects = [
     description:
       "Freelance Developed a website for a dealership based in Chicago.",
     image: "/365auto.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/gordontheprogrammer/365auto",
+    link: "https://github.com/gordontheprogrammer/365auto",
   },
   {
     name: "Conference Go",
